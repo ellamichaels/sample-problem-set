@@ -1,0 +1,55 @@
+---
+title: "Sample Problem Set: Bias in Self-Reported Turnout (Template)"
+output: pdf_document
+author: Your Name Here
+---
+
+```{r setup, include = FALSE}
+options(width = 80)
+```
+
+
+## Question 1
+
+
+There are `XX` years in this data set. The data covers the time
+periods from `XX` to `XX`.
+
+## Question 2
+
+
+## Question 3
+
+On average, the ANES turnout rate is `XX` percentage points higher
+than the VAP turnout rate. The difference ranges from `XX` to `XX`
+percentage points. Comparatively, we find that on average, the ANES
+turnout rate is `XX` percentage points higher than the VEP turnout
+rate. The difference ranges from `XX` to `XX` percentage points.
+
+
+
+## Question 4
+
+
+The ANES turnout rate is on average `XX` percentage points
+[higher/lower] than the VEP turnout rate in presidential elections.
+In midterm elections, the ANES turnout rate is on average `XX`
+percentage points [higher/lower] than the VEP turnout rate.
+
+
+
+## Question 5
+
+
+For the first half of election years, the median difference between
+the ANES and VEP turnout rates is `XX` percentage points, while for
+the second half the median difference is `XX` percentage points. For
+the first half of election years, the ANES turnout rate is on average
+difference between the ANES and VEP turnout rates is `XX` percentage
+points, while the average difference is `XX` percentage points for the
+second half.
+
+
+
+## Question 6
+
