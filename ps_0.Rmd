@@ -1,0 +1,34 @@
+---
+title: "Problem Set 0: Bias in Self-reported Turnout"
+author: Your Name Here
+output: pdf_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+options(width = 100)
+```
+
+## Question 1
+
+
+## Question 2
+
+
+## Question 3
+
+
+## Question 4
+
+
+
+
+
+
+\newpage 
+
+# Code
+
+```{r print-code, ref.label=knitr::all_labels(), echo = TRUE, eval=FALSE}
+## This command will print all of your named chunks
+```
